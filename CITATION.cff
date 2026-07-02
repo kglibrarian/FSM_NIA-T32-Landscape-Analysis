@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+
+title: "NIA T32 Landscape Analysis"
+
+message: "If you use this software, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: Gutzman
+    given-names: Karen E.
+
+affiliation: Northwestern University Feinberg School of Medicine
+
+repository-code: https://github.com/kglibrarian/FSM_NIA-T32-Landscape-Analysis
+
+license: MIT
+
+keywords:
+  - NIH
+  - T32
+  - Bibliometrics
+  - VOSviewer
+  - PubMed
+  - NIH RePORTER
+  - Landscape Analysis
+
+abstract: >
+  A reproducible workflow for analyzing NIH NIA T32
+  institutional training grants using NIH RePORTER,
+  PubMed, and VOSviewer.
